@@ -11,7 +11,7 @@ My work focuses on data analysis, KPI monitoring, building scalable dashboards, 
 ✅ Projects I’ve Completed
 
 - 📊 **High Sales Profitability Dashboard** – Analyzed low-margin products and discounting trends to drive pricing and marketing strategy.  
-- 🛒 **Grocery Fulfillment Insights** – Identified delivery delays and improved repeat purchase behavior using Excel and Python.
+- 🛒 **Grocery Fulfillment Insights** – Identified delivery delays and improved repeat purchase behavior using Excel, Data Analysis and Data Modelling.
 
 ---
 
