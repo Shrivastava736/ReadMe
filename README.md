@@ -6,7 +6,7 @@ My work focuses on data analysis, KPI monitoring, building scalable dashboards, 
 
 🔧 What I’m Currently Working On
 
-🚀 **Drone-Enabled Delivery Optimization** – Simulating drone dispatch logic to reduce fulfillment time and cost using Python.
+- 🚀 **Drone-Enabled Delivery Optimization** – Simulating drone dispatch logic to reduce fulfillment time and cost using Python.
 
 ✅ Projects I’ve Completed
 
